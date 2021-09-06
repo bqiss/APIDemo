@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+target 'API' do
+pod 'Masonry'
+pod 'AFNetworking'
+pod 'JSONModel'
+pod 'SVProgressHUD'
+pod 'DSToast'
+pod 'IQKeyboardManager'
+end
